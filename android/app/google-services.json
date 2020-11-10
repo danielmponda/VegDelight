@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836466700566",
+    "firebase_url": "https://vegdelightfb.firebaseio.com",
+    "project_id": "vegdelightfb",
+    "storage_bucket": "vegdelightfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836466700566:android:7229d6bf08b9587c",
+        "android_client_info": {
+          "package_name": "com.vegdelightmw.vegdelightfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836466700566-uoe2rld8eeaj9i3fo9b677h4jabc0js4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRvGxH77PGmpsEosLY5SsytSNdtBALwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836466700566-uoe2rld8eeaj9i3fo9b677h4jabc0js4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
